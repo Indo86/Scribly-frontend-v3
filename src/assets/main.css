@@ -1,0 +1,10 @@
+.main-content {
+  margin-top: 58px; /* Sesuaikan dengan tinggi navbar */
+  margin-left: 240px; /* Default ketika sidenav terbuka */
+  padding: 20px;
+  transition: margin-left 0.3s ease-in-out;
+}
+
+.main-content.collapsed {
+  margin-left: 60px; /* Ketika sidenav tertutup */
+}
