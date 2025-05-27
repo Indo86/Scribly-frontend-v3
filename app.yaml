@@ -1,5 +1,5 @@
 runtime: nodejs22
-service: Scribly-frontend-v3
+service: scribly-frontend-v3
 
 handlers:
   - url: /
